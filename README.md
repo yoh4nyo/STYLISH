@@ -8,7 +8,7 @@
 - Mathias Rakotomavo
 
 ## Lien vers le projet hébergé
-- [Lien vers l’application]((https://stylish.alwaysdata.net/php/login.php))  
+- [Lien vers le site](https://stylish.alwaysdata.net/php/login.php)) 
 - [Lien vers le dépôt GitHub](https://github.com/yoh4nyo/STYLISH)) 
 
 ## Description
