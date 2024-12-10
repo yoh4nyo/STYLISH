@@ -6,7 +6,10 @@
 - Mathias R
 - Alexandre L
 ## Lien vers le projet hébergé
-- Lien vers le site : 
+- Lien vers le site : https://stylish.alwaysdata.net/php/login.php
+## Pour se connecter au site 
+- Login :
+- MDP :
 ## Description
 Décrivez brièvement le travail réalisé et sa finalité.
 ## Conduite de projet
