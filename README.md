@@ -8,11 +8,11 @@
 - Mathias Rakotomavo
 
 ## Lien vers le projet hébergé
-- [Lien vers l’application](https://example.com)  
-- [Lien vers le dépôt GitHub](https://github.com/example/repository) 
+- [Lien vers l’application]([https://example.com](https://stylish.alwaysdata.net/php/login.php))  
+- [Lien vers le dépôt GitHub](https://github.com/yoh4nyo/STYLISH)) 
 
 ## Description
-Le projet "STYLISH" est une application web permettant aux utilisateurs de gérer leur garde-robe virtuelle. Ils peuvent créer un compte, enregistrer des vêtements, les organiser, et les trier en fonction de différents critères. Ce projet a été développé avec une approche agile en utilisant la méthode Scrum, avec une attention particulière à la conception front-end et à l'intégration backend.
+Le projet "STYLISH" est une application web permettant aux utilisateurs de gérer leur garde-robe virtuelle. Ils peuvent créer un compte, enregistrer des vêtements, les organiser, et les trier en fonction de différents critères. Ce projet a été développé avec une approche agile en utilisant la méthode Scrum.
 
 ## Conduite de projet
 
@@ -24,41 +24,24 @@ Nous avons utilisé la méthode agile SCRUM pour organiser et suivre l'avancemen
 
 ### Répartition des tâches
 - **Chef de projet** : Yannis Camelin
-- **Développeurs** : Yannis Camelin, Yohan Som, Mathias Rakotomavo
-- **UI/UX Designer** : Alexandre Lopere, Marjorie Pili
+- **Développeurs** : Yannis Camelin, Yohan Som, 
+- **UI/UX Designer** : Alexandre Lopere, Marjorie Pili, Mathias Rakotomavo
 
 ### Étapes principales
 
-1. **Idéation et conception** :
+1. **Conception** :
    - Définition des objectifs du projet et des user stories.
    - Création des wireframes et de la charte graphique.
-   - Conception de l'interface utilisateur (UI) et de l'expérience utilisateur (UX).
 
-2. **Développement des fonctionnalités principales** :
+2. **Les Sprints** :
    - **Sprint 1** : Implémentation de la page d'inscription, page de connexion, ajout de vêtements à la garde-robe, et filtrage des vêtements.
    - **Sprint 2** : Mise en place de la base de données pour l'enregistrement des utilisateurs et des vêtements, ainsi que l'intégration du back-end.
 
-3. **Tests et débogage** :
-   - Réalisation de tests pour s'assurer que toutes les fonctionnalités sont opérationnelles.
-   - Débogage des erreurs détectées et amélioration de la performance.
-
 4. **Hébergement** :
-   - Déploiement du projet sur une plateforme d'hébergement comme Netlify ou Vercel.
-   - Mise en ligne du projet pour un accès public.
+   - Mise en ligne du projet sur AlwaysData
 
 ### Logiciels utilisés
-- **Trello** : Pour la gestion des tâches et le suivi des progrès.
-- **GitHub** : Pour le versionnement du code et le suivi des modifications.
-- **Visual Studio Code** : Pour l'édition du code.
+- **Trello** : Pour la gestion et le suivi des tâches
+- **GitHub** : Pour le dépôt
+- **Visual Studio Code** : Pour le code
 - **Figma** : Pour la création des maquettes et de la charte graphique.
-
-### Problèmes rencontrés et solutions
-- **Problème** : Légers retards dans le Sprint 2 dû à une surcharge de tâches.
-  - **Solution** : Redistribution des tâches entre les membres de l'équipe pour respecter les délais.
-  
-- **Problème** : Difficulté d'intégration entre le front-end et le back-end.
-  - **Solution** : Communication continue au sein de l'équipe et clarification des exigences techniques pour une meilleure intégration.
-
-### Bilan final
-Le projet a été mené à bien avec succès en respectant les délais et les objectifs définis. La méthode agile SCRUM a permis une gestion fluide du projet, et l'utilisation de différents outils a facilité la communication et la collaboration entre les membres de l'équipe.
-
