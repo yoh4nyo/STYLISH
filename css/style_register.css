@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
+
+body {
+    background-color: #D3C5D9;
+}
+
+img {
+    display: block;
+    width: 58%;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+h1 {
+    color: #B57BCF;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-top: 5%;
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    background-color: #743B8C;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 12px;
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+input[type="submit"]:hover {
+    background-color: #5a2d6e;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    background-color: #F3F3F3;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.25rem;
+    border-radius: 8px;
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+form {
+    text-align: center;
+}
+
+a {
+    color: #743B8C;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #4b275a;
+}
+
+a:focus, a:visited {
+    color: #743B8C; 
+}
+
+.input-container {
+    position: relative;
+}
+
+.input-container input {
+    padding-left: 40px; 
+}
+
+.input-container .icon {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #8B8A95;
+}
+
+input:focus + .icon {
+    color: #743B8C;
+}
+
+.btn-primary {
+    background-color: #743B8C;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #5a2d6e;
+}
+
+footer {
+    background-color: #743B8C;
+    color: white;
+    padding: 20px 0;
+}
+
+footer h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+
+footer a:visited, a:focus {
+    color: #5a2f6d; 
+}
+
+footer p {
+    font-size: 0.875rem;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    input[type="submit"], input[type="text"], input[type="email"], input[type="password"] {
+        font-size: 1rem;
+    }
+
+    img {
+        width: 50%;
+    }
+}

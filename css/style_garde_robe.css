@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #D3C5D9;
+}
+  
+.navbar {
+    background-color: #a45fc2;
+    padding: 20px 0;
+}
+
+#navbarNav {
+    display: flex;
+    justify-content: center; 
+    width: 100%;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 100%; 
+}
+
+.navbar-nav .nav-item {
+    margin: 0 15px; 
+}
+
+.navbar-nav .nav-link {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+}
+
+.nav-link:hover {
+    color: #ffffff9a !important;
+}
+
+.navbar-nav .nav-link i {
+    margin-right: 8px;
+}
+
+.navbar .user-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+  
+.navbar .user-icon i {
+    font-size: 20px; 
+    color: #743B8C; 
+}
+  
+.navbar .d-flex a {
+    color: #fff;
+    font-size: 1.5rem;
+}
+  
+h2 {
+    color : #B57BCF;
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+}
+
+.product-card {
+    border: none;
+    border-radius: 15px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.product-card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    color : #B57BCF;
+}
+
+.card-text {
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.9rem;
+}
+
+.d-flex.gap-3 {
+    display: flex; 
+    justify-content: flex-start;
+}
+  
+#addButton, #sortButton {
+    background-color: #743B8C;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 12px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+  
+#addButton i, #sortButton i {
+    margin-right: 8px;
+}
+
+#sortButton:hover, #addButton:hover {
+    background-color: rgb(142, 71, 150);
+}
+
+  .modal-body,
+  .modal-header,
+  .modal-title,
+  .form-label,
+  .form-control,
+  .btn {
+    font-family: 'Poppins', sans-serif !important;
+  }
+
+  .product-card {
+    position: relative;
+}
+
+.product-card .btn-danger {
+    opacity: 0; 
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    transition: opacity 0.3s ease-in-out; 
+}
+
+.product-card:hover .btn-danger {
+    opacity: 1; 
+}

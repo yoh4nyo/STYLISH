@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #D3C5D9;
+}
+
+img {
+    display: block;
+    width: 58%;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+::placeholder {
+    font-family: "Montserrat", sans-serif;
+    color: #8B8A95;
+}
+
+h1 {
+    color: #B57BCF;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    font-size: 3.5rem;
+    margin-top: 5%;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+a {
+    color: #743B8C;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #4b275a;
+}
+
+form {
+    text-align: center;
+}
+
+input[type="submit"] {
+    background-color: #743B8C;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 12px;
+    width: 50%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    margin: 30px 0;
+}
+
+input[type="submit"]:hover {
+    background-color: #5a2d6e;
+}
+
+input[type="text"], input[type="password"] {
+    background-color: #F3F3F3;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.25rem;
+    transition: background-color 0.3s ease;
+    border-radius: 8px;
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    margin: 10px 0;
+}
+
+#mdp:focus, #identifiant:focus {
+    color: #000000;
+}
+
+.input-container {
+    position: relative;
+}
+
+.input-container input {
+    padding-left: 40px;
+}
+
+.input-container .icon {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #8B8A95;
+}
+
+input:focus + .icon {
+    color: #743B8C;
+}
+
+.btn-primary {
+    background-color: #743B8C;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #5a2d6e;
+}
+
+footer {
+    background-color: #743B8C;
+    color: white;
+    padding: 23px 0;
+}
+
+footer h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
+footer a:visited, a:focus {
+    color: #5a2f6d; 
+}
+
+footer p {
+    font-size: 0.875rem;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    input[type="submit"], input[type="text"], input[type="password"] {
+        font-size: 1rem;
+        padding: 8px 16px;
+    }
+
+    img {
+        width: 50%;
+    }
+}
