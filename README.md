@@ -8,8 +8,10 @@
 - Mathias Rakotomavo
 
 ## Lien vers le projet hébergé
-- [Lien vers le site](https://stylish.alwaysdata.net/php/login.php)) 
-- [Lien vers le dépôt GitHub](https://github.com/yoh4nyo/STYLISH)) 
+- [Lien vers le site](https://stylish.alwaysdata.net/php/login.php)
+- [Lien vers le dépôt GitHub](https://github.com/yoh4nyo/STYLISH)
+### Comment se connecter ? 
+Il suffit juste de créer votre compte !
 
 ## Description
 Le projet "STYLISH" est une application web permettant aux utilisateurs de gérer leur garde-robe virtuelle. Ils peuvent créer un compte, enregistrer des vêtements, les organiser, et les trier en fonction de différents critères. Ce projet a été développé avec une approche agile en utilisant la méthode Scrum.
