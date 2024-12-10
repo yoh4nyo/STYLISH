@@ -1,18 +1,20 @@
-# Nom du Projet
+# STYLISH
 ## Membres
-- Prénom Nom 1
-- Prénom Nom 2
-- Prénom Nom 3
+- Yannis CAMELIN
+- Marjorie PILI
+- Yohan SOM
+- Mathias RAKOTOMAVO
+- Alexandre LOPERE
 ## Lien vers le projet hébergé
-- [Lien vers l’application](https://example.com)
-- Lien ver github si vous avez créé un dépôt.
+- Lien vers le site : 
 ## Description
 Décrivez brièvement le travail réalisé et sa finalité.
 ## Conduite de projet
 - Méthode utilisée : [Scrum]
 - Répartition des tâches :
 - Étapes principales :
- 1. Idéation et conception.
- 2. Développement des fonctionnalités principales.
- 3. Tests et débogage.
- 4. Hébergement.
+1. La charte graphique
+2. Le wireframe + le logo
+3. Le Front - end (HTML, CSS, Javascript, Bootstrap)
+4. Le Back - end (PHP, SQL)
+
