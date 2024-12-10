@@ -1,10 +1,10 @@
 # STYLISH
 ## Membres
-- Yannis CAMELIN
-- Marjorie PILI
-- Yohan SOM
-- Mathias RAKOTOMAVO
-- Alexandre LOPERE
+- Yannis C
+- Marjorie P
+- Yohan S
+- Mathias R
+- Alexandre L
 ## Lien vers le projet hébergé
 - Lien vers le site : 
 ## Description
