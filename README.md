@@ -20,4 +20,4 @@ Décrivez brièvement le travail réalisé et sa finalité.
 1. Alexandre : La charte graphique 
 2. Alexandre & Yohan : Le wireframe + le logo
 3. Mathias & Marjorie & Alexandre : Le Front - end (HTML, CSS, Javascript, Bootstrap)
-4. Yannis & Yohan Le Back - end (PHP, SQL)
+4. Yannis & Yohan : Le Back - end (PHP, SQL)
